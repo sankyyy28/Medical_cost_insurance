@@ -1,8 +1,3 @@
-Of course! Here is a comprehensive and professional `README.md` file for the "Medical Cost Insurance" project. It's structured to clearly explain the project's purpose, the steps taken, and the findings.
-
-You can copy and paste this directly into a `README.md` file in your GitHub repository.
-
----
 
 # Medical Insurance Cost Prediction
 
